@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you refer to this project, please cite the paper below."
+title: "EEG-controlled 3D-printed prosthetic arm (project page)"
+type: software
+authors:
+  - family-names: Mostafa
+    given-names: Fady
+  - family-names: Mostafa
+    given-names: Amr
+repository-code: "https://github.com/fady-mostafa-omar/eeg-prosthetic-arm"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Prosthetic Arm Using EEG Control Signals Based on Deep Convolutional Neural Network"
+  authors:
+    - family-names: Mostafa
+      given-names: Amr
+    - family-names: Mostafa
+      given-names: Fady
+    - family-names: Ahmed
+      given-names: Sara
+  collection-title: "6th IUGRC International Undergraduate Research Conference"
+  conference:
+    name: "6th IUGRC International Undergraduate Research Conference"
+    city: Cairo
+    country: EG
+  start: 1
+  end: 7
+  year: 2022
+  doi: "10.21608/iugrc.2022.302696"
