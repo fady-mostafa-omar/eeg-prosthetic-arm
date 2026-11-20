@@ -80,10 +80,6 @@ position, velocity, acceleration and torque of each joint.
 This was an undergraduate project. It built the complete chain from EEG decoding to a moving arm, but it did not test
 decoding on new people or in real time.
 
-## Where is the code?
-The original source code and LabVIEW files of this project were lost and could not be recovered. This repository
-documents the system and the published results. It contains no runnable code, and nothing here has been re-run.
-
 ## What came next
 - **M.Sc. project: [realtime-bci-hand-exoskeleton](https://github.com/fady-mostafa-omar/realtime-bci-hand-exoskeleton).**
   The same public dataset was used to train a decoder that then ran live: a consumer EEG headset, real-time decoding on
